@@ -4,4 +4,3 @@
     <li>Sue Sampson</li>
     <li>Oscar Acheampong</li>
 </ol>
-
