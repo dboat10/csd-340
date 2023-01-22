@@ -1,0 +1,51 @@
+body {
+    font-family: 'Oswald', Verdana, Arial, sans-serif;
+}
+
+.container {
+    margin-top: 50px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+h1 {
+    background-color: #3c275a;
+    color: #fff;
+    border: 1px solid #d6a800;
+    padding: 10px;
+}
+
+h2 {
+    background-color: #3c275a;
+    color: #fff;
+    border: 1px solid #d6a800;
+    padding: 10px;
+}
+
+h3 {
+    background-color: #3c275a;
+    color: #fff;
+    border: 1px solid #d6a800;
+    padding: 10px;
+}
+
+h4 {
+    background-color: #3c275a;
+    color: #fff;
+    border: 1px solid #d6a800;
+    padding: 10px;
+}
+
+a:link {
+    color: #453674;
+    text-decoration: none;
+}
+
+a:hover {
+    background-color: #D6A800;
+    color: #4F3674;
+}
+
+a:visited {
+    color: #3c275a;
+}
